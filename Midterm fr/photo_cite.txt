@@ -1,0 +1,71 @@
+Photo cite
+choco:
+candy1.png:
+https://i5.walmartimages.com/seo/Ghost-Goodies-Halloween-Candy-Mixed-Bag-SweeTARTS-Nerds-Trolli-Laffy-Taffy-100-Count_8b7ba318-d852-441f-a934-d41fe851f1cf.71da0fbed758ce5636f84dddbba006a2.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy2.png:
+https://www.walmart.com/ip/Reese-s-Milk-Chocolate-Peanut-Butter-Snack-Size-Halloween-Candy-Bag-9-6-oz/803159623?athbdg=L1200
+candy3.png:
+https://i5.walmartimages.com/seo/Reese-s-Milk-Chocolate-Peanut-Butter-Pumpkins-Halloween-Candy-Packs-1-2-oz-6-Count_8f54b096-0025-4105-bba5-2fe3d9c16391.945552d1a1a3901e9d752f769a035e7d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+candy4.png:
+https://i5.walmartimages.com/seo/York-Dark-Chocolate-Snack-Size-Peppermint-Patties-Halloween-Candy-Bag-11-4-oz_a1934bb3-94e6-43ec-96b5-a517a4a341cb.5a6043fc42b7ab4dbf29bdb1e1fd6fa8.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+candy5.png:
+https://i5.walmartimages.com/seo/Utz-Halloween-Bats-and-Jacks-Pretzel-Treats-0-5-oz-36-Count_57018e88-94ac-4076-a3c0-a400fc195ebb.bd5e7361300c71c9d4a51bed5bcee316.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy6.png:
+https://i5.walmartimages.com/seo/Heath-Milk-Chocolate-English-Toffee-Snack-Size-Halloween-Candy-Bars-Bag-11-5-oz_42935b92-c4a1-412c-a18a-02d24c0b6faa.c3e4fb047fffed370904c07254d383d7.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+
+gummy:
+candy1.png: 
+https://i5.walmartimages.com/seo/Haribo-Halloween-Trick-or-Treat-Mix-Mini-Bags-Gummy-Candy-36-1oz-80ct_8aa07082-7e42-48fa-8a1d-e92c14e7b81c.6768e1596deff8519cfa565756b92c54.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+candy2.png:
+https://i5.walmartimages.com/seo/Brach-s-Halloween-Autumn-Mix-Halloween-Themed-Candy-Corn-14-oz_4c9ecd1c-8436-4546-8886-906f1fd748ea.8307195277d76c7aaa793f1e22222de5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+candy3.png:
+https://i5.walmartimages.com/seo/Mars-Mixed-Lifesavers-Gummy-Candy-Skittles-and-Starburst-Chewy-Candy-Variety-Bulk-Halloween-Stand-up-Pouch-95-4-oz_ea892db3-bcc3-4f0a-a526-0a85a9e5a8c4.ab1e5eaa7a380e6246abbad87ace5274.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy4.png:
+https://i5.walmartimages.com/seo/Frankford-Gummy-Krabby-Patties-Candy-Halloween-Bag-6-34-Ounces_1301d551-dcb1-48f1-94aa-b54424ed9c19.1af8a57faec429dff9bd01df16832eed.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+candy5.png:
+https://i5.walmartimages.com/seo/Kellogg-s-Froot-Loops-Gummies-Pieces-16-ct-6-72oz_382f763e-37c8-458a-afb8-052f852ef3e2.f08a0e01439e4933ed47ef8bf0e8077f.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy6.png:
+https://i5.walmartimages.com/seo/Laffy-Taffy-Candy-Assorted-Flavor-18-7-Oz_4caef46e-d517-4962-b954-957942afc8a7_1.8711f29d2fa41579d18fbbd9009e30a8.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+
+sour:
+candy1.png:
+https://i5.walmartimages.com/seo/Flix-Candy-Halloween-Sour-Box-of-Boogers-Gummies-Candy-3-25-Ounce-Theater-Box_ce043c82-271e-4fe2-8650-fa92b4c9d4e8.f8bb062e97b6dc9ceddd098eb9614549.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy2.png:
+https://i5.walmartimages.com/seo/Trolli-Sour-Brite-Crawlers-Halloween-Candy-Treat-Packs-7-2oz-12-Count_ae907a2c-ed20-4864-b179-a05308625a1a.a46685c8b4d6da1e38dfe2f015143877.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy3.png:
+https://i5.walmartimages.com/seo/Nerds-Gotta-Have-Grape-Seriously-Strawberry-Halloween-Candy-Variety-Pack-9-oz_8bb8c18f-a67e-4997-8410-4612a40dfb2a.0884fbb4e4b1ef87dcaa055ecc70f6e4.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy4.png:
+https://i5.walmartimages.com/seo/SOUR-PATCH-KIDS-SWEDISH-FISH-Mini-Halloween-Candy-Variety-Pack-22-Trick-or-Treat-Bags_6538f43a-d916-4058-9991-d851d2b34d11.3b9e8467876ddadcb76f067d254db91f.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF
+candy5.png:
+https://i5.walmartimages.com/seo/Warheads-Halloween-Sour-Popping-Candy-3-7-oz-35-Count_4cbf60db-be1d-49c2-bcf1-ef5448703b65.0c6949154adac8bb080648150e90343b.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+candy6.png:
+https://i5.walmartimages.com/seo/Jolly-Rancher-Gummies-Sours-Assorted-Fruit-Flavored-Candy-Box-3-5-oz_7add15cf-e681-4ff4-99dc-e79a277e47ea.93781eeba2829f9f7e5ad5ebf582e1a9.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF
+
+Others:
+cart.png:
+https://img.freepik.com/premium-photo/shopping-cart-with-jack-o-lantern-gift-box-isolated-background-halloween-sale-concept-3d-rendering-illustration_696265-750.jpg?w=740
+ghost.png:
+https://cdn3d.iconscout.com/3d/premium/thumb/ghost-with-halloween-chocolates-6574860-5503639.png?f=webp
+cat1.png:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2F3ds%2Fhalloween-candy&psig=AOvVaw3pYR8yjv0QJYdcohStdrsw&ust=1697514345488000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDfu-7T-YEDFQAAAAAdAAAAABAE
+cat2.png:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUij0DsFvYnGB_ICvq8BF-AK5yfXvQk8Qi00UTmDRxkpY-AIIM
+cat3.png:
+https://iconscout.com/3d-illustration/halloween-candy-6482823
+abt.webp:
+https://www.vecteezy.com/png/12074885-3d-halloween-icon-illustration
+party.png:
+https://iconscout.com/3d-illustration/halloween-party-9817199
+cosplay.png: canva
+dance.png: canva
+house.png: canva
+vampire.png: canva
+woo.png: canva
+hunt.png:
+https://www.novaparks.com/sites/default/files/styles/scale_1920/public/2022-09/halloween%20scavenger%20hunt%20GRAPHIC_1.jpg?itok=1unUDWfZ
+store.png: 
+https://lemax.imgix.net/images/default-source/product-images/25328633ae16a-63b0-4b54-a02f-268a008f54f8.jpg?w=1024
+thanks.webp:
+https://boomf.com/cdn/shop/products/1_038c27ee-2da4-40b9-8cd8-860a27c09e75.jpg?height=1582&v=1674033379&width=1270
+
+

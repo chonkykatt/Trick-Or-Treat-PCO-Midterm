@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/ghost.png">
+    <!-- REMIX ICONS -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <!-- CSS LINK -->
+    <link rel="stylesheet" href="assets/css/styles.css">
+    
+    <title>Trick or Treat - Checkout</title>
+</head>
+<body>
+    
+
+    <!-- HEADER START -->
+    <header class="header" id="header">
+        <nav class="nav container">
+            <a href="#" class="nav__logo">
+                <img src="assets/img/ghost.png" alt="logo image">
+                Trick or Treat
+            </a>
+            <div class="nav__menu" id="nav-menu">
+                <ul class="nav__list">
+                    <li class="nav__item">
+                        <a href="index.html" class="nav__link">Home</a>
+                    </li>
+
+                    <li class="nav__item">
+                        <a href="About.html" class="nav__link">About us</a>
+                    </li>
+
+                    <li class="nav__item">
+                        <a href="Shop.html" class="nav__link">Shop</a>
+                    </li>
+
+                    <li class="nav__item">
+                        <a href="Party.html" class="nav__link">Party</a>
+                    </li>
+
+                    <li class="nav__item">
+                        <a href="Cart.html" class="nav__link active-link">
+                            <i class="ri-shopping-cart-2-fill">  </i> Cart
+                        </a>
+                    </li>
+                </ul>
+
+                <!-- CLOSE BUTTON -->
+                <div class="nav__close" id="nav-close">
+                    <i class="ri-close-line"></i>
+                </div>
+
+                <img src="assets/img/ghost.png" alt="nav image" class="nav__img">
+            </div>
+
+            <!-- TOGGLE BUTTON -->
+            <div class="nav__toggle" id="nav-toggle">
+                <i class="ri-menu-4-fill"></i>
+            </div>
+        </nav>
+    </header>
+
+
+    <!-- MAIN START -->
+    <main class="main">
+
+        <div class="shape__big"></div>
+        <div class="check__container">
+            <form action="" method="POST">
+                <h2>Checkout</h2>
+                <div class="form-group">
+                    <label for="name">Full Name</label>
+                    <input type="text" id="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="address">Address</label>
+                    <textarea id="address" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="card">Credit Card Number</label>
+                    <input type="text" id="card" required>
+                </div>
+                <div class="form-group">
+                    <label for="expiry">Expiration Date</label>
+                    <input type="text" id="expiry" required>
+                </div>
+                <div class="form-group">
+                    <label for="cvv">CVV</label>
+                    <input type="text" id="cvv" required>
+                </div>
+                <a href="#" class="button" id="popup-link" type="submit">Submit</a>
+            </form>
+        </div>
+
+        <img src="assets/img/cat2.png" alt="home image" class="home__tree-1">
+        <img src="assets/img/cart.png" alt="home image" class="home__tree-2">
+        <div id="popup-image">
+            <img src="assets/img/thanks.webp" alt="Popup Image">
+          </div>
+    </main>
+        <!-- FOOTER -->
+        <footer class="footer section">
+            <div class="shape__small"></div>
+            <div class="shape__big"></div>
+
+            <div class="footer__container container grid">
+                <div>
+                    <a href="#" class="footer__logo">
+                        <img src="assets/img/ghost.png" alt="logo image">
+                        Trick or Treat
+                    </a>
+
+                    <p class="footer__description">
+                        We sell candies for Halloween.
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://jigsaw.w3.org/css-validator/check/referer">
+                            <img style="border:0;width:88px;height:31px"
+                                src="http://jigsaw.w3.org/css-validator/images/vcss"
+                                alt="Valid CSS!" />
+                        </a>
+                    </p>
+                </div>
+
+                <div class="footer__content">
+                    <div>
+                        <h3 class="footer__title">About us</h3>
+
+                        <ul class="footer__links">
+                            <li>
+                                <a href="About.html" class="footer__link">Our Store</a>
+                            </li>
+
+                            <li>
+                                <a href="Party.html" class="footer__link">Party</a>
+                            </li>
+
+                            <li>
+                                <a href="#" class="footer__link">Email: khanh31324@gmail.com</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h3 class="footer__title">Category</h3>
+
+                        <ul class="footer__links">
+                            <li>
+                                <a href="Shop.html" class="footer__link">Sour Candy</a>
+                            </li>
+
+                            <li>
+                                <a href="Shop.html" class="footer__link">Gummy</a>
+                            </li>
+
+                            <li>
+                                <a href="Shop.html" class="footer__link">Chocolate</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h3 class="footer__title">Social Media</h3>
+
+                        <ul class="footer__social">
+                            <a href="https://www.facebook.com/khanh31324" class="footer__social-link">
+                                <i class="ri-facebook-circle-fill"></i>
+                            </a>
+                            
+                            <a href="https://www.instagram.com" class="footer__social-link">
+                                <i class="ri-instagram-fill"></i>
+                            </a>
+                            
+                            <a href="https://twitter.com/?lang=vi" class="footer__social-link">
+                                <i class="ri-twitter-x-line"></i>
+                            </a>
+                        </ul>
+                    </div>
+                </div>
+
+                <img src="assets/img/woo.png" alt="footer image" class="footer__tree-1">
+
+            </div>
+        </footer>
+        
+    <!-- SCROLL UP -->
+        <a href="#" class="scrollup" id="scroll-up">
+            <i class="ri-arrow-up-line"></i>
+        </a>
+        
+    <!-- SCROLL REVEAL -->
+        <script src="assets/js/scrollreveal.min.js"></script>
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
